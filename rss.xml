@@ -5,6 +5,12 @@
     <link>https://jimmyhaley.github.io/podcastmaker/</link>
     <atom:link href="https://jimmyhaley.github.io/podcastmaker/rss.xml" rel="self" type="application/rss+xml"/>
     <description>Daily commute briefing for Jimmy — AI, markets, world news, sports.</description>
+  <image>
+    <url>https://jimmyhaley.github.io/podcastmaker/cover.png</url>
+    <title>Max Von Claude Daily Briefing</title>
+    <link>https://jimmyhaley.github.io/podcastmaker/</link>
+  </image>
+  <itunes:image href="https://jimmyhaley.github.io/podcastmaker/cover.png"/>
     <language>en-us</language>
     <itunes:author>Max</itunes:author>
     <itunes:category text="News"/>
