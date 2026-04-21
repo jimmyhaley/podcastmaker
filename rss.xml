@@ -15,7 +15,15 @@
     <itunes:author>Max</itunes:author>
     <itunes:category text="News"/>
     <itunes:explicit>no</itunes:explicit>
-                                                  <item>
+                                                    <item>
+    <title>Tuesday Evening — 2026-04-21</title>
+    <pubDate>Tue, 21 Apr 2026 23:56:25 GMT</pubDate>
+    <enclosure url="https://jimmyhaley.github.io/podcastmaker/audio/pod-2026-04-21-evening.mp3" length="24826029" type="audio/mpeg"/>
+    <guid>https://jimmyhaley.github.io/podcastmaker/audio/pod-2026-04-21-evening.mp3</guid>
+    <description>Tuesday Evening — 2026-04-21</description>
+    <itunes:duration>0</itunes:duration>
+  </item>
+  <item>
     <title>Tuesday Morning — 2026-04-21</title>
     <pubDate>Tue, 21 Apr 2026 18:31:37 GMT</pubDate>
     <enclosure url="https://jimmyhaley.github.io/podcastmaker/audio/pod-2026-04-21-morning.mp3" length="25731117" type="audio/mpeg"/>
@@ -167,13 +175,5 @@
     <description>Wednesday Evening — 2026-04-01</description>
     <itunes:duration>0</itunes:duration>
   </item>
-  <item>
-    <title>Wednesday Morning — 2026-04-01</title>
-    <pubDate>Wed, 01 Apr 2026 13:06:29 GMT</pubDate>
-    <enclosure url="https://jimmyhaley.github.io/podcastmaker/audio/pod-2026-04-01-morning.mp3" length="9667439" type="audio/mpeg"/>
-    <guid>https://jimmyhaley.github.io/podcastmaker/audio/pod-2026-04-01-morning.mp3</guid>
-    <description>Wednesday Morning — 2026-04-01</description>
-    <itunes:duration>0</itunes:duration>
-  </item>
-        </channel>
+          </channel>
 </rss>
