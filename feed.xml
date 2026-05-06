@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jimmy's Article Podcast</title>
+    <link>https://github.com/jimmyhaley/podcastmaker</link>
+    <description>Long-form articles converted to audio</description>
+    <language>en-us</language>
+    <atom:link href="https://raw.githubusercontent.com/jimmyhaley/podcastmaker/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Venture-Capital Populist (The Atlantic, June 2026)</title>
+      <description>David Sacks: how Silicon Valley's libertarian dealmaker became Trump's AI and crypto czar. By George Packer, The Atlantic.</description>
+      <pubDate>Wed, 06 May 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/jimmyhaley/podcastmaker/main/audio/podcast_sacks_atlantic_20260506.mp3" type="audio/mpeg" length="7359212"/>
+      <guid isPermaLink="true">https://raw.githubusercontent.com/jimmyhaley/podcastmaker/main/audio/podcast_sacks_atlantic_20260506.mp3</guid>
+      <itunes:duration>10</itunes:duration>
+    </item>
+  </channel>
+</rss>
